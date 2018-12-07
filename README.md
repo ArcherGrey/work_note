@@ -13,8 +13,10 @@
 - C# 调用服务 LINQ WCF 
 - C++ 提供基础服务 PROTOBUFFER
 
+
 数据库：
-- mysql
+- ibatis
+- mysql 
 
 bug:
 - jquery easyui 控件功能失效 （修改功能相关逻辑）
