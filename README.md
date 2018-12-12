@@ -1,6 +1,6 @@
 # 工作记录
 
-[问题总结]()
+[问题总结](https://github.com/ArcherGrey/work_note/blob/master/xxx.md)
 
 架构：
 - MVC
