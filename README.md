@@ -20,6 +20,9 @@
 - ibatis
 - mysql 
 
+日志：
+- flume
+
 bug:
 - jquery easyui 控件功能失效 （修改功能相关逻辑）
 - 初始化参数错误导致的功能失效或异常（修改初始化参数）
