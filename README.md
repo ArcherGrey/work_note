@@ -22,6 +22,7 @@
 
 日志：
 - flume
+- log4net
 
 bug:
 - jquery easyui 控件功能失效 （修改功能相关逻辑）
