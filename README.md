@@ -1,5 +1,10 @@
 # 工作记录
 
+可以做的东西：
+- 流程图在线编辑
+
+
+
 [问题总结](https://github.com/ArcherGrey/work_note/blob/master/xxx.md)
 
 架构：
