@@ -7,3 +7,4 @@
 - 后端调用 `SetWindowPos` 实现浏览器窗口顶置
 
 # javascript
+- `ajax` 同步不生效：`jsonp`不能同步
