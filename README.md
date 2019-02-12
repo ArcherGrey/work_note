@@ -4,8 +4,8 @@
 - 流程图在线编辑
 
 
-[vue 的一些问题](https://github.com/ArcherGrey/work_note/blob/master/vue.md)
-[问题总结](https://github.com/ArcherGrey/work_note/blob/master/xxx.md)
+- [vue 的一些问题](https://github.com/ArcherGrey/work_note/blob/master/vue.md)
+- [问题总结](https://github.com/ArcherGrey/work_note/blob/master/xxx.md)
 
 架构：
 - MVC
