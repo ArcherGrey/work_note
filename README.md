@@ -17,6 +17,9 @@
 - easyui 
 - bootstrap
 - mui
+- websocket
+- signalR
+- google protobuffer
 
 后端：
 - C# 调用服务 LINQ WCF 
